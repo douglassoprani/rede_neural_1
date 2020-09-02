@@ -2,6 +2,8 @@ import numpy as np
 
 class NeuralNetwork():
     
+    #teste edit online
+    
     def __init__(self):
         # Seed the random number generator
         np.random.seed(1)
