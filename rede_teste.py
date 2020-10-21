@@ -1,11 +1,14 @@
 import numpy as np
 
+
 class NeuralNetwork():
     
     #teste edit online
-    
+
+
+
     def __init__(self):
-        # Seed the random number generator
+        # Seed 1the random number generator
         np.random.seed(1)
 
         # Set synaptic weights to a 3x1 matrix,
