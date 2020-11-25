@@ -78,7 +78,7 @@ if __name__ == "__main__":
     # Train the neural network
     neural_network.train(training_inputs, training_outputs, 50000)
 
-    print("Synaptic weights after training: ")
+    print("Synaptic weightsneu after training: ")
     print(neural_network.synaptic_weights)
 
     A = str(input("Input 1: "))
